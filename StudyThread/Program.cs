@@ -10,7 +10,7 @@ namespace StudyThread
     {
         static void Main(string[] args)
         {
-
+            //jedu
             object dosts = new object();
 
             Dost dost = new Dost();
